@@ -96,7 +96,7 @@ To use this Terraform project, follow these steps:
 
 1. Clone the repository to your local machine.
 ```
-git clone https://github.com/AmaraOgu/aws-data-pipelines.git
+git clone https://github.com/mamiololo01/aws-data-pipelines.git
 ```
 2. Change into the setups directory. 
 ```
